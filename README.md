@@ -91,8 +91,6 @@ Aqui você encontrará projetos com foco em:
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafael-Quinteiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Quinteiro&layout=compact&theme=tokyonight)
