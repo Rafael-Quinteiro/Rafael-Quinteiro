@@ -14,7 +14,7 @@ Atualmente atuo na **CWI Software**, entregando soluções de qualidade para **u
 - **APIs:** Java, RestAssured, JUnit, Gherkin (BDD)
 - **Web:** Selenium WebDriver + Java
 - **Mobile:** Appium (Android & iOS)
-- **Em estudo:** Playwright
+- **Em estudo:** Playwright e K6
 
 ### ✅ Qualidade & Processos
 - Testes funcionais, regressivos, exploratórios e automatizados
