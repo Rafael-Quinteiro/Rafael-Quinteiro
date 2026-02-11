@@ -2,7 +2,7 @@
 
 🎯 **QA Engineer | Test Automation Engineer | Java • Selenium • Appium • RestAssured | API & Mobile Testing | CI/CD**
 
-Sou Analista de Testes (QA) com sólida experiência em **Qualidade de Software e Automação de Testes**. Desde 2017 atuo na área de tecnologia, iniciando minha jornada como **Analista de Suporte** e evoluindo de forma **autodidata, consistente e estratégica** até me especializar em **Testes, Automação e Processos de Qualidade**.
+Sou QA Engineer com sólida experiência em **Qualidade de Software e Automação de Testes**. Desde 2017 atuo na área de tecnologia, iniciando minha jornada como **Analista de Suporte** e evoluindo de forma **autodidata, consistente e estratégica** até me especializar em **Testes, Automação e Processos de Qualidade**.
 
 Atualmente atuo na **CWI Software**, entregando soluções de qualidade para **uma das maiores empresas do varejo do Brasil e do exterior**, com forte foco em **automação, confiabilidade, eficiência e melhoria contínua**.
 
